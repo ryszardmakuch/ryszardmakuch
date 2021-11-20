@@ -1,10 +1,10 @@
-![](https://komarev.com/ghpvc/?username=ryszardmakuch&style=flat-square&color=orange)
+![](https://komarev.com/ghpvc/?username=ryszardmakuch&style=flat-square&color=orange&style=flat-square)
 
 # Hi 👋, I'm Ryszard
 
-https://www.linkedin.com/in/ryszardmakuch/
+Software Engineer at [Allegro](https://github.com/allegro). Have an experience in Java and Kotlin backend tech stacks. Learning by [Changing Stuff and Seeing What Happens](https://i.imgur.com/s425j5u.png). You can find me on [LinkedIn](https://www.linkedin.com/in/ryszardmakuch/).
 
-Software Engineer at [Allegro](https://github.com/allegro). Have an experience in Java and Kotlin backend tech stacks. Learning by [Changing Stuff and Seeing What Happens](https://i.imgur.com/s425j5u.png). 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryszardmakuch&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Talks:
 
