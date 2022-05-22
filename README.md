@@ -22,4 +22,4 @@ During my studies in Computer Science at Jagiellonian University I did bunch of 
 
 ## Contact:
 
-📫 rmakuch.contact+github@gmail.com
+[📫 e-mail](mailto:rmakuch.contact+gh@gmail.com)
