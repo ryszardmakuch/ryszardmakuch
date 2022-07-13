@@ -8,8 +8,8 @@ Software Engineer at [Allegro](https://github.com/allegro). Have an experience i
 
 ## Talks:
 
-- [Allegro Tech Meeting 2021: Mutation Testing 101 (in Polish)](https://www.youtube.com/watch?v=GibLUL2sYuA),
-- [Strefa Kodera: My perspective on a software testing (in Polish)](https://strefakodera.pl/po-godzinach/ryszard-makuch-o-testowaniu-oprogramowania).
+- [Allegro Tech Meeting 2021: Mutation Testing 101 (given in Polish)](https://github.com/ryszardmakuch/mutation-testing-101-atm-2021),
+- [Strefa Kodera: My approach to software testing (given in Polish)](https://strefakodera.pl/po-godzinach/ryszard-makuch-o-testowaniu-oprogramowania).
 
 ## Past activities:
 
