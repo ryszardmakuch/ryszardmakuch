@@ -18,7 +18,7 @@ During my studies in Computer Science at Jagiellonian University I did bunch of 
 - Project at detecting and classifying stress by analyzing mechanical computer steering patterns:
   - [Radio Krakow: Artificial Intelligence reads your emotions - a new dimension of virtual play (in Polish)](https://www.radiokrakow.pl/audycje/pracuja-na-nobla/interfejes-emocjonalny-nowatorskie-badania-nad-baedaniem-emocji-uczestnika-gry-przy-pomocy-sztucznej-inteligencji/),
   - [Polskie Radio: Laboratory of the future at the Jagiellonian University (in Polish)](https://www.polskieradio.pl/9/201/Artykul/1247414,Laboratorium-przyszlosci-na-Uniwersytecie-Jagiellonskim).
-- [Master's Thesis on automated machine learning and genetic programming](https://gist.github.com/ryszardmakuch/3d278653469b827d147fb79b35804258).
+- [Master's Thesis on generating supervised machine learning pipelines using genetic programming](https://github.com/ryszardmakuch/generating-supervised-ml-pipelines-using-genetic-programming).
 
 ## Contact:
 
