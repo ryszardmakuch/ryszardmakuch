@@ -14,7 +14,7 @@ Reach out to me on [LinkedIn](https://linkedin.com/in/ryszardmakuch/) or drop me
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryszardmakuch&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-## Given:
+## Given talks:
 
 - Allegro Tech Meeting 2021: Mutation Testing 101 ([video in Polish - 17 minutes](https://youtube.com/watch?v=GibLUL2sYuA), [slides in English](https://github.com/ryszardmakuch/mutation-testing-101-atm-2021)),
 - StrefaKodera.pl: My approach to software testing ([text in Polish](https://strefakodera.pl/po-godzinach/ryszard-makuch-o-testowaniu-oprogramowania)).
