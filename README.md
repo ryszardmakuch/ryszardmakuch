@@ -36,7 +36,7 @@ During my studies in Computer Science at Jagiellonian University I did bunch of 
 - Master's Thesis on generating supervised machine learning pipelines using genetic programming ([content in English, excerpt in Polish](https://github.com/ryszardmakuch/generating-supervised-ml-pipelines-using-genetic-programming)).
 
 <div>
-    <a href="https://ryszardmakuch.github.io/info/img/starcraft_mouse_heatmap_1.jpg"><img src="https://ryszardmakuch.github.io/info/img/starcraft_mouse_heatmap_1.jpg" alt="1" style="width:150px;margin:1px;"/></a>
-    <a href="https://ryszardmakuch.github.io/info/img/starcraft_mouse_heatmap_2.jpg"><img src="https://ryszardmakuch.github.io/info/img/starcraft_mouse_heatmap_2.jpg" alt="2" style="width:150px;margin:1px;"/></a>
-    <a href="https://ryszardmakuch.github.io/info/img/generating_supervised_machine_learning_pipelines_1.png"><img src="https://ryszardmakuch.github.io/info/img/generating_supervised_machine_learning_pipelines_1.png" alt="2" style="width:150px;margin:1px;"/></a>
+    <a href="https://ryszardmakuch.github.io/info/img/starcraft_mouse_heatmap_1.jpg"><img src="https://ryszardmakuch.github.io/info/img/starcraft_mouse_heatmap_1.jpg" alt="1" style="height:150px;margin:1px;"/></a>
+    <a href="https://ryszardmakuch.github.io/info/img/starcraft_mouse_heatmap_2.jpg"><img src="https://ryszardmakuch.github.io/info/img/starcraft_mouse_heatmap_2.jpg" alt="2" style="height:150px;margin:1px;"/></a>
+    <a href="https://ryszardmakuch.github.io/info/img/generating_supervised_machine_learning_pipelines_1.png"><img src="https://ryszardmakuch.github.io/info/img/generating_supervised_machine_learning_pipelines_1.png" alt="2" style="height:150px;margin:1px;"/></a>
 </div>
